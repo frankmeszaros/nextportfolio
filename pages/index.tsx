@@ -7,7 +7,7 @@ const IndexPage = () => {
   const router = useRouter();
 
   return (
-    <Layout title="Home | Next.js + TypeScript Example">
+    <Layout title="Frank Meszaros">
       <div className="flex flex-col h-full justify-center text-center font-bold ">
         <p className="w-3/5 mx-auto text-7xl">
           Hello, I&lsquo;m <span className="text-primary">Frank Meszaros.</span>
