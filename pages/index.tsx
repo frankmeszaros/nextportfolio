@@ -20,6 +20,15 @@ const IndexPage = () => {
             vectrix.io
           </a>
         </p>
+        <p>
+          Sometimes I{" "}
+          <a
+            href="https://frankmeszaros.medium.com"
+            className="hover:underline text-primary"
+          >
+            write stuff too
+          </a>
+        </p>
         <div className="w-32 flex justify-around my-10 mx-auto text-xl">
           <Button
             round
