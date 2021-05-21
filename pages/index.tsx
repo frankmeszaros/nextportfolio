@@ -20,12 +20,12 @@ const IndexPage = () => {
           </a>
         </p>
         <p>
-          Sometimes I{" "}
+          Sometimes{" "}
           <a
             href="https://frankmeszaros.medium.com"
             className="hover:underline text-primary"
           >
-            write stuff too
+            I write stuff too
           </a>
         </p>
         <div className="flex justify-around mx-auto text-xl space-x-4">
