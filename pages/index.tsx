@@ -15,8 +15,8 @@ const IndexPage = () => {
 
         <p className="mx-auto w-1/2 text-2xl md:text-3xl lg:text-4xl">
           I&lsquo;m a full-stack software engineer currently working at&nbsp;
-          <a href="https://vectrix.io" className="hover:underline text-primary">
-            vectrix.io
+          <a href="https://www.cloudflare.com/products/zero-trust/casb/" className="hover:underline text-primary">
+            Cloudflare
           </a>
         </p>
         <p>
