@@ -30,7 +30,6 @@ const IndexPage = () => {
         </p>
         <div className="flex justify-around mx-auto text-xl space-x-4">
           <Button
-            round
             content={<FaGithubAlt />}
             primary
             backgroundColor="bg-black"
@@ -38,7 +37,6 @@ const IndexPage = () => {
           />
 
           <Button
-            round
             content={<FaLinkedinIn />}
             primary
             backgroundColor="bg-blue-800"
@@ -48,7 +46,6 @@ const IndexPage = () => {
           />
 
           <Button
-            round
             content={<FaMediumM />}
             primary
             backgroundColor="bg-black"
